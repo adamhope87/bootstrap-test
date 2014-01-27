@@ -1,0 +1,36 @@
+/*STYLES By Adam Hope*/
+
+/*Top Nav Bar*/
+.title {
+	white-space: pre-wrap;
+}
+.top-logo {
+	max-height: 80px;
+	margin: 5px 0px;
+}
+.the-newtop {
+	background-color: #ffffff;
+	border-bottom: solid 1px #999999;
+}
+/*Top Nav Bar End*/
+
+/*Hero Box*/
+.hero {
+	margin-top: 80px;
+	background-color: #ffffff;
+	border: solid #999999 2px;
+}
+/*Hero Box End*/
+
+/*Footer Nav*/
+/*Footer Nav End*/
+
+
+/*BootSrap OverRide*/
+.navbar-toggle {
+	float:right;
+}
+.navbar-brand {
+	float:left;
+}
+/*BootSrap OverRide End*/

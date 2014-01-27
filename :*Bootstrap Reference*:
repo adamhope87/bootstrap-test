@@ -1,0 +1,47 @@
+/*Bootstrap Reference*/
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> // Initiate Responsive in Header
+
+.img-responsive // Responisive images
+
+.container // Page Centered Content
+
+.jumbotron // Full width Hero box with rounded edges
+
+
+
+GRID SYSTEM
+
+Rows must be placed within a .container 
+
+Colums within a .row
+
+	.col-xs- // Devices <768px
+
+	.col-sm- // Devices ≥768px
+
+	.col-md- // Devices ≥992px
+
+	.col-lg- // Devices ≥1200px
+
+Columns must add up 12 for full container width eg.
+
+.col-md-4 		.col-md-4		.col-md-4
+
+.clearfix // Clear both 
+
+
+
+.col-md-offset-4  // Offset by 4 Colums e.g 
+
+col-md-4 		--------		.col-md-offset-4 
+
+
+
+Add new .row rto next columns within columns
+
+
+
+
+.navbar // Navbar 
+.navbar-default
